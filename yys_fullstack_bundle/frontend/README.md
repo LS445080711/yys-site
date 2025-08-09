@@ -1,0 +1,1 @@
+Next.js frontend. Expects backend at http://localhost:8000 (or change fetch URLs). Run: npm install && npm run dev

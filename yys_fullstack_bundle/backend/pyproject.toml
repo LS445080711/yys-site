@@ -1,0 +1,10 @@
+[project]
+name = "yys-backend"
+version = "0.1.0"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "databases[sqlite]",
+    "aiosqlite",
+    "pydantic"
+]
